@@ -7,5 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class produto extends Model
 {
-    use HasFactory;
+    protected $fillable = [
+        'procodigo',
+        'pronome', 
+        'prodescricao',
+        'provalor'
+    ];
 }
