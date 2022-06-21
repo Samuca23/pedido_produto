@@ -7,6 +7,10 @@
     <title>Página Inicial</title>
 </head>
 <body>
-   
+    <div class="container">
+        <header>
+            
+        </header>
+    </div>
 </body>
 </html>
